@@ -1,16 +1,14 @@
-### Hi there 👋
+ # Bem Vindo
+## Meu nome é Felipe Garcia 😃
+ Faço o curso de desenvolvimento de sistemas no Colégio Regente Feijó.💻
 
-<!--
-**felps12345/felps12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Minhas matérias do curso são:
 
-Here are some ideas to get you started:
+- Ciências da computação 
+- Programação Front-end
+- Programação Mobile
+- Banco de Dados
+- Analise e Projeto de Sistemas  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
