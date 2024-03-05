@@ -3,7 +3,7 @@
  Faço o curso de desenvolvimento de sistemas no Colégio Regente Feijó.💻
 
 ### Minhas matérias do curso são:
-
+sou gay
 - Ciências da computação 
 - Programação Front-end
 - Programação Mobile
